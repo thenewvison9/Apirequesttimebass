@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/Check", "dest": "/api/check.js" },
+    { "src": "/Gen", "dest": "/api/gen.js" }
+  ]
+}
